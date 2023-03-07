@@ -823,7 +823,7 @@ footer{
         margin-bottom: 89px;
     }
     .newslatter{
-        
+        display:block;
         flex-direction: column;
     }
     .newslatter h2{
@@ -848,27 +848,3 @@ footer{
     }
 }
    
-/*
-@media screen (max-width:900px) {
-    .section-1{
-        display: none;
-    }
-    .section-2{
-        display: none;
-    }
-    .section-3{
-        display: none;
-    }
-    .section-4{
-        display: none;
-    }
-    .section-5{
-        display: none;
-    }
-    .section-6{
-        display: none;
-    }
-    
-
-    
-}*/
